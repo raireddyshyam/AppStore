@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AppStore/static/css/main.ed607bf4.css",
+    "main.js": "/AppStore/static/js/main.3ee88f4f.js",
+    "index.html": "/AppStore/index.html",
+    "main.ed607bf4.css.map": "/AppStore/static/css/main.ed607bf4.css.map",
+    "main.3ee88f4f.js.map": "/AppStore/static/js/main.3ee88f4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed607bf4.css",
+    "static/js/main.3ee88f4f.js"
+  ]
+}
